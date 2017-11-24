@@ -3,7 +3,7 @@ To implement and experiment with Dynamic Tables data structure based on the foll
 
 Language restriction : C 
 
-1.Create a data structure to hold all information required for a dynamic table.
+1. Create a data structure to hold all information required for a dynamic table.
    - pointer to the data 
    - max size of the table
    - current size
