@@ -1,0 +1,135 @@
+ratio:1:1
+increase factor:2.000000
+decrease factor:0.250000
+maximum time for a insertion: 0.000213
+maximum time for a deletion: 0.000578
+average time for insertions: 0.000053
+average time for deletions: 0.000085
+average time for all operations: 0.000001
+.
+ratio:1:1
+increase factor:2.000000
+decrease factor:0.500000
+maximum time for a insertion: 0.000240
+maximum time for a deletion: 0.000635
+average time for insertions: 0.000050
+average time for deletions: 0.000063
+average time for all operations: 0.000001
+.
+ratio:1:1
+increase factor:2.000000
+decrease factor:0.750000
+maximum time for a insertion: 0.000250
+maximum time for a deletion: 0.001716
+average time for insertions: 0.000062
+average time for deletions: 0.000072
+average time for all operations: 0.000001
+.
+ratio:1:1
+increase factor:3.000000
+decrease factor:0.750000
+maximum time for a insertion: 0.000255
+maximum time for a deletion: 0.000626
+average time for insertions: 0.000066
+average time for deletions: 0.000068
+average time for all operations: 0.000001
+.
+ratio:1:1
+increase factor:3.000000
+decrease factor:0.500000
+maximum time for a insertion: 0.000203
+maximum time for a deletion: 0.001581
+average time for insertions: 0.000059
+average time for deletions: 0.000097
+average time for all operations: 0.000002
+.
+ratio:1:1
+increase factor:3.000000
+decrease factor:0.250000
+maximum time for a insertion: 0.000227
+maximum time for a deletion: 0.000653
+average time for insertions: 0.000045
+average time for deletions: 0.000071
+average time for all operations: 0.000001
+.
+ratio:1:1
+increase factor:1.750000
+decrease factor:0.250000
+maximum time for a insertion: 0.000214
+maximum time for a deletion: 0.000673
+average time for insertions: 0.000050
+average time for deletions: 0.000069
+average time for all operations: 0.000001
+.
+ratio:1:1
+increase factor:1.750000
+decrease factor:0.500000
+maximum time for a insertion: 0.000259
+maximum time for a deletion: 0.000807
+average time for insertions: 0.000051
+average time for deletions: 0.000072
+average time for all operations: 0.000001
+.
+ratio:1:1
+increase factor:1.750000
+decrease factor:0.750000
+maximum time for a insertion: 0.000183
+maximum time for a deletion: 0.000565
+average time for insertions: 0.000050
+average time for deletions: 0.000047
+average time for all operations: 0.000001
+.
+ratio:1:1
+increase factor:1.500000
+decrease factor:0.750000
+maximum time for a insertion: 0.000307
+maximum time for a deletion: 0.000890
+average time for insertions: 0.000094
+average time for deletions: 0.000089
+average time for all operations: 0.000002
+.
+ratio:1:1
+increase factor:1.500000
+decrease factor:0.500000
+maximum time for a insertion: 0.000237
+maximum time for a deletion: 0.000798
+average time for insertions: 0.000063
+average time for deletions: 0.000076
+average time for all operations: 0.000001
+.
+ratio:1:1
+increase factor:1.500000
+decrease factor:0.250000
+maximum time for a insertion: 0.000210
+maximum time for a deletion: 0.000942
+average time for insertions: 0.000051
+average time for deletions: 0.000091
+average time for all operations: 0.000001
+.
+ratio:1:1
+increase factor:1.250000
+decrease factor:0.250000
+maximum time for a insertion: 0.000179
+maximum time for a deletion: 0.000669
+average time for insertions: 0.000047
+average time for deletions: 0.000077
+average time for all operations: 0.000001
+.
+ratio:1:1
+increase factor:1.250000
+decrease factor:0.50000
+maximum time for a insertion: 0.000260
+maximum time for a deletion: 0.000600
+average time for insertions: 0.000050
+average time for deletions: 0.000061
+average time for all operations: 0.000001
+.
+ratio:1:1
+increase factor:1.250000
+decrease factor:0.750000
+maximum time for a insertion: 0.000292
+maximum time for a deletion: 0.000727
+average time for insertions: 0.000070
+average time for deletions: 0.000070
+average time for all operations: 0.000001
+
