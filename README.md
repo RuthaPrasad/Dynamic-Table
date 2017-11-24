@@ -1,5 +1,5 @@
 # Dynamic-Table-Experimentation
-To implement and experiment with Dynamic Tables data structure based on the following guidelines:
+To build and experiment with Dynamic Tables data structure based on the following guidelines:
 
 Language restriction : C 
 
